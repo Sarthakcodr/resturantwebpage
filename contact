@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="contacts.css " />
+</head>
+
+<body>
+
+<style>
+        body {
+            background-image: url("https://i2.wp.com/www.pixelspot.net/wp-content/uploads/2018/08/Google-Contacts-header.png?resize=1286%2C624&ssl=1");
+
+        }
+    </style>
+
+
+
+
+
+
+    <h1 style="font-size:60px;">CONTACTS</h1>
+
+    <div id="input-wrapper">
+        <input type="text" id="name-input" placeholder="enter name" />
+        <button id="btn-add-contact">Add</button>
+    </div>
+    <div id="contact-list">
+        <div class="contacts-entry">
+            <div class="name initial">A </div>
+            <div class="full name"> Aaditya Anand</div>
+
+        </div>
+
+        <div class="contacts-entry">
+
+            <div class="full name">Akshay Sharma</div>
+
+        </div>
+        <div class="contacts-entry">
+
+            <div class="full name">Abhishek Goel</div>
+
+        </div>
+
+
+
+        <div class="contacts-entry">
+            <div class="name initial">B </div>
+            <div class="full name">Bharat Bhanvan</div>
+
+        </div>
+
+        <div class="contacts-entry">
+
+            <div class="full name">Bhavya Singh</div>
+
+        </div>
+
+
+
+
+
+        <div class="contacts-entry">
+            <div class="name initial">C</div>
+            <div class="full name">Chitranni Chaturvedi</div>
+
+            <div class="contacts-entry">
+
+                <div class="full name">Chavi Bansal</div>
+
+            </div>
+
+
+        </div>
+
+        <div class="contacts-entry">
+            <div class="name initial">D </div>
+            <div class="full name"> Dev Dhaniya</div>
+
+        </div>
+
+        <div class="contacts-entry">
+
+            <div class="full name">Devansh Tyagi</div>
+
+        </div>
+
+
+    </div>
+	
+	
+    </div>
+
+    <script src="contacts.js"></script>
+
+
+
+    </div>
+</body>
+
+</html>
+
+
+
+
+
+
+
+    </div>
+
+    <script src="contacts.js"></script>
+
+
+
+    </div>
+</body>
+
+</html>
+
+
+
+    </div>
+
+    <script src="contacts.js"></script>
+
+
+
+    </div>
+</body>
+
+</html>
+
+<h1 style="font-size:60px;">CREATE CONTACT</h1>
+
+
+
+<label>Enter name:
+    <input type="text" />
+</label>
+
+
+<br> <label>Enter your phone number:
+    <input type="number" /> </br>
+</label>
+<input type="save" />
+</form>
+
+
+<input type="submit" value="save">
+</form>
+
+)
+}
+
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        #customers {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        #customers td,
+        #customers th {
+            border: 1px solid rgb(26, 51, 131);
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: rgb(75, 49, 49);
+        }
+
+        th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #d7dfdc;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 style="font-size:60px;">VIEW contact-list</h1>
+
+
+    <table id="CONTACT LISTS">
+        <tr>
+            <th>Name</th>
+            <th>last name</th>
+            <th>Phone Number</th>
+        </tr>
+        <tr>
+            <td>Alok</td>
+            <td>goel</td>
+            <td>89765795</td>
+        </tr>
+        <tr>
+            <td>champak</td>
+            <td>Sharma</td>
+            <td>897544678</td>
+        </tr>
+        <tr>
+            <td>Sarthak</td>
+            <td>Tyagi</td>
+            <td>897544678</td>
+        </tr>
+        <tr>
+            <td>ashutosh</td>
+            <td>Khurana</td>
+            <td>897544678</td>
+        </tr>
+        <tr>
+            <td>shirish</td>
+            <td>Chauhan</td>
+            <td>897544678</td>
+        </tr>
+        <tr>
+            <td>vansh</td>
+            <td>Mishra</td>
+            <td>897544678</td>
+        </tr>
+        <tr>
+            <td>ritik</td>
+            <td>Baliyan</td>
+            <td>897544678</td>
+        </tr>
+        <tr>
+            <td>Maga</td>
+            <td>Gupta</td>
+            <td>897544678</td>
+        </tr>
+        <tr>
+            <td>devesh/td>
+            <td>Mavi</td>
+            <td>897544678</td>
+        </tr>
+        <tr>
+            <td>Pari</td>
+            <td>SINGH</td>
+            <td>897544678</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+	
+	
+	
